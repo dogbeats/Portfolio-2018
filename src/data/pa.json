@@ -1,0 +1,185 @@
+{
+	"pixelart":[
+	{"key":"1","name":"CHVRCHES Fan Art","filepath":"./images/portfolio/pa/FanArt/CHVRCHES-1.png","ymd_date":"20151205","dmy_date":"03/12/2015","description":"CHVCHES 'EOE' album fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"2","name":"COD4 (1)","filepath":"./images/portfolio/pa/FanArt/COD4-1.png","ymd_date":"20100801","dmy_date":"01/08/2010","description":"Call Of Duty 4 fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"3","name":"COD4 (2)","filepath":"./images/portfolio/pa/FanArt/COD4-2.png","ymd_date":"20130330","dmy_date":"30/03/2013","description":"Call Of Duty 4 fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"5","name":"COD4 (3)","filepath":"./images/portfolio/pa/FanArt/COD4-3.png","ymd_date":"20171006","dmy_date":"06/10/2017","description":"Call Of Duty 4 fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"6","name":"Vegito","filepath":"./images/portfolio/pa/FanArt/DB-1.gif","ymd_date":"20161127","dmy_date":"27/11/2016","description":"Vegito from DBS fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"7","name":"Goku & Frieza","filepath":"./images/portfolio/pa/FanArt/DB-3.png","ymd_date":"20170827","dmy_date":"27/08/2017","description":"Goku & Frieza from DBZ fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"8","name":"Kefla","filepath":"./images/portfolio/pa/FanArt/DB-4.png","ymd_date":"20180301","dmy_date":"01/03/2018","description":"Kefla from DBS fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"9","name":"Death Stranding Fan Art","filepath":"./images/portfolio/pa/FanArt/DeathStranding.png","ymd_date":"20160729","dmy_date":"29/07/2016","description":"Death Stranding Fan Art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"10","name":"Isometric Cyberman","filepath":"./images/portfolio/pa/FanArt/DW-Cyberman.png","ymd_date":"20140830","dmy_date":"30/08/2014","description":"Cyberman from Doctor Who fan art","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"11","name":"Cyberman Portrait","filepath":"./images/portfolio/pa/FanArt/DW-Cyberman1.png","ymd_date":"20170315","dmy_date":"15/03/2017","description":"Cyberman from Doctor Who fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"12","name":"Isometric Dalek","filepath":"./images/portfolio/pa/FanArt/DW-Dalek1.png","ymd_date":"20140129","dmy_date":"29/01/2014","description":"Dalek from Doctor Who fan art","completed":"true","visible":"true","Categories":{"isometric":"false","true":"true","animal":"false","other":"false"}},
+	
+	{"key":"13","name":"Isometric Celebration Dalek","filepath":"./images/portfolio/pa/FanArt/DW-Dalek2.png","ymd_date":"20141116","dmy_date":"16/11/2014","description":"Dalek from Doctor Who fan art","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"14","name":"Karen Gillan","filepath":"./images/portfolio/pa/FanArt/DW-KG.bmp","ymd_date":"20120801","dmy_date":"01/08/2012","description":"Karen Gillan from Doctor Who fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"15","name":"Isometric TARDIS","filepath":"./images/portfolio/pa/FanArt/DW-TARDIS.png","ymd_date":"20140205","dmy_date":"05/02/2014","description":"TARDIS from Doctor Who fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"16","name":"Big Boss Portrait","filepath":"./images/portfolio/pa/FanArt/MGS-bb1.png","ymd_date":"20140709","dmy_date":"09/07/2014","description":"Big Boss from Metal Gear Solid fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"17","name":"FOX Patch","filepath":"./images/portfolio/pa/FanArt/MGS-Fox.png","ymd_date":"20130912","dmy_date":"12/09/2013","description":"FOX patch from Metal Gear Solid fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"18","name":"Shadow Moses Scene","filepath":"./images/portfolio/pa/FanArt/MGS-ShadowM.gif","ymd_date":"20100807","dmy_date":"07/08/2010","description":"Shadow Moses from Metal Gear Solid fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"true","animal":"false","other":"false"}},
+	
+	{"key":"19","name":"Skull Face","filepath":"./images/portfolio/pa/FanArt/MGS-Skull.gif","ymd_date":"20160128","dmy_date":"28/01/2016","description":"Skull Face from Metal Gear Solid fan art","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"20","name":"Queen Fictional Album","filepath":"./images/portfolio/pa/FanArt/Queen-CoverArt.png","ymd_date":"20140508","dmy_date":"08/05/2014","description":"Queen fan cover album","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"21","name":"'DW' Icon","filepath":"./images/portfolio/pa/Icons/Icon-DWBig.png","ymd_date":"20150507","dmy_date":"07/05/2015","description":"'DW' icon (big)","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"22","name":"'DW' Icon","filepath":"./images/portfolio/pa/Icons/Icon-DWSmall.png","ymd_date":"20150507","dmy_date":"07/05/2015","description":"'DW' icon (small)","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"23","name":"Acorn Icon","filepath":"./images/portfolio/pa/Icons/Icon-Acorn.png","ymd_date":"20150718","dmy_date":"18/07/2015","description":"Acorn icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"24","name":"Africa Icon","filepath":"./images/portfolio/pa/Icons/Icon-Africa.png","ymd_date":"20150719","dmy_date":"19/07/2015","description":"Africa icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"25","name":"Bonfire Icon","filepath":"./images/portfolio/pa/Icons/Icon-Bonfire.png","ymd_date":"20160418","dmy_date":"18/04/2016","description":"Bonfire icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"26","name":"Rainbow Butterfly Icon (1)","filepath":"./images/portfolio/pa/Icons/Icon-Butterfly1.png","ymd_date":"20160221","dmy_date":"21/02/2016","description":"Rainbow butterfly icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"27","name":"Rainbow Butterfly Icon (2)","filepath":"./images/portfolio/pa/Icons/Icon-Butterfly2.png","ymd_date":"20160221","dmy_date":"21/02/2016","description":"Rainbow butterfly icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"28","name":"Cake Icon (1)","filepath":"./images/portfolio/pa/Icons/Icon-Cake1.gif","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Cake icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"29","name":"Cake Icon (2)","filepath":"./images/portfolio/pa/Icons/Icon-Cake2.gif","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Cake icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"30","name":"Cake Icon (3)","filepath":"./images/portfolio/pa/Icons/Icon-Cake3.gif","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Cake icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"31","name":"Cake Icon (4)","filepath":"./images/portfolio/pa/Icons/Icon-Cake4.gif","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Cake icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"32","name":"Cake Icon (5)","filepath":"./images/portfolio/pa/Icons/Icon-Cake5.gif","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Cake icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"33","name":"Dolphin Icon","filepath":"./images/portfolio/pa/Icons/Icon-Dolphin.png","ymd_date":"20150803","dmy_date":"03/08/2015","description":"Dolphin icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"34","name":"Fox Icon","filepath":"./images/portfolio/pa/Icons/Icon-Fox.png","ymd_date":"20150803","dmy_date":"03/08/2015","description":"Fox icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"35","name":"Firefox Inspired Icon","filepath":"./images/portfolio/pa/Icons/Icon-Fox2.png","ymd_date":"20150803","dmy_date":"03/08/2015","description":"Firefox inspired icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"36","name":"Bronze Guitar Icon","filepath":"./images/portfolio/pa/Icons/Icon-GuitarB.gif","ymd_date":"20150701","dmy_date":"01/07/2015","description":"Animated bronze guitar icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"37","name":"Gold Guitar Icon","filepath":"./images/portfolio/pa/Icons/Icon-GuitarG.gif","ymd_date":"20150701","dmy_date":"01/07/2015","description":"Animated gold guitar icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"38","name":"Silver Guitar Icon","filepath":"./images/portfolio/pa/Icons/Icon-GuitarS.gif","ymd_date":"20150701","dmy_date":"01/07/2015","description":"Animated silver guitar icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"39","name":"Heart Icon (1)","filepath":"./images/portfolio/pa/Icons/Icon-Heart.gif","ymd_date":"20160310","dmy_date":"10/03/2016","description":"Heart icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"40","name":"Heart Icon (2)","filepath":"./images/portfolio/pa/Icons/Icon-Heart2.gif","ymd_date":"20160129","dmy_date":"29/01/2016","description":"Heart icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"41","name":"Panda Icon","filepath":"./images/portfolio/pa/Icons/Icon-Panda.png","ymd_date":"20150803","dmy_date":"03/08/2015","description":"Panda icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"42","name":"Royal 'Crown' Icon","filepath":"./images/portfolio/pa/Icons/Icon-Royal.png","ymd_date":"20140508","dmy_date":"08/05/2014","description":"Royal 'crown' icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"43","name":"Tortoise Icon","filepath":"./images/portfolio/pa/Icons/Icon-Tortoise.png","ymd_date":"20150803","dmy_date":"03/08/2015","description":"Tortoise icon","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"44","name":"Amulet (1)","filepath":"./images/portfolio/pa/Isometric/ISO-Amulet1.gif","ymd_date":"20081101","dmy_date":"01/11/2008","description":"Amulet","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"45","name":"Amulet (2)","filepath":"./images/portfolio/pa/Isometric/ISO-Amulet2.gif","ymd_date":"20081101","dmy_date":"01/11/2008","description":"Amulet","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"46","name":"Amulet (3)","filepath":"./images/portfolio/pa/Isometric/ISO-Amulet3.gif","ymd_date":"20081101","dmy_date":"01/11/2008","description":"Amulet","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"47","name":"Amulet (4)","filepath":"./images/portfolio/pa/Isometric/ISO-Amulet4.gif","ymd_date":"20081101","dmy_date":"01/11/2008","description":"Amulet","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"48","name":"Amulet (5)","filepath":"./images/portfolio/pa/Isometric/ISO-Amulet5.gif","ymd_date":"20081101","dmy_date":"01/11/2008","description":"Amulet","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"49","name":"Amulet (6)","filepath":"./images/portfolio/pa/Isometric/ISO-Amulet6.gif","ymd_date":"20081101","dmy_date":"01/11/2008","description":"Amulet","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"50","name":"Chairs","filepath":"./images/portfolio/pa/Isometric/ISO-Chairs.png","ymd_date":"20150615","dmy_date":"15/06/2015","description":"Isometric chairs","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"51","name":"Spinning Dice (1)","filepath":"./images/portfolio/pa/Isometric/ISO-DiceBG.gif","ymd_date":"20150827","dmy_date":"27/08/2015","description":"Black and gold isometric dice","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"52","name":"Spinning Dice (1)","filepath":"./images/portfolio/pa/Isometric/ISO-DiceBS.gif","ymd_date":"20150827","dmy_date":"27/08/2015","description":"Black and silver isometric dice","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"53","name":"Spinning Dice (1)","filepath":"./images/portfolio/pa/Isometric/ISO-DiceWG.gif","ymd_date":"20150827","dmy_date":"27/08/2015","description":"White and gold isometric dice","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"54","name":"Dolphin","filepath":"./images/portfolio/pa/Isometric/ISO-Dolphin.png","ymd_date":"20150727","dmy_date":"27/07/2015","description":"Isometric dolphin","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"55","name":"Futuristic Door (Big)","filepath":"./images/portfolio/pa/Isometric/ISO-DoorBig.gif","ymd_date":"20080821","dmy_date":"21/08/2008","description":"Isometric futuristic door animation (big)","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"56","name":"Futuristic Door (Small)","filepath":"./images/portfolio/pa/Isometric/ISO-DoorSmall.gif","ymd_date":"20080821","dmy_date":"21/08/2008","description":"Isometric futuristic door animation (small)","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"57","name":"Fox","filepath":"./images/portfolio/pa/Isometric/ISO-Fox.png","ymd_date":"20150727","dmy_date":"27/07/2015","description":"Isometric fox","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"58","name":"Kangaroo (1)","filepath":"./images/portfolio/pa/Isometric/ISO-Kangaroo1.png","ymd_date":"20160313","dmy_date":"13/03/2016","description":"Isometric kangaroo","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"59","name":"Kangaroo (2)","filepath":"./images/portfolio/pa/Isometric/ISO-Kangaroo2.png","ymd_date":"20160313","dmy_date":"13/03/2016","description":"Isometric kangaroo","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"60","name":"Animated Mech","filepath":"./images/portfolio/pa/Isometric/ISO-Mech.gif","ymd_date":"20150728","dmy_date":"28/07/2015","description":"Isometric mech","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"61","name":"Panda","filepath":"./images/portfolio/pa/Isometric/ISO-Panda.png","ymd_date":"20150727","dmy_date":"27/07/2015","description":"Isometric Panda","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"62","name":"Desktop PC","filepath":"./images/portfolio/pa/Isometric/ISO-PC.png","ymd_date":"19991231","dmy_date":"unknown","description":"Isometric PC","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"63","name":"Post Box","filepath":"./images/portfolio/pa/Isometric/ISO-PostBox.png","ymd_date":"20160615","dmy_date":"15/06/2016","description":"Isometric post box","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"64","name":"PS4","filepath":"./images/portfolio/pa/Isometric/ISO-Ps4.png","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Isometric PS4","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"65","name":"Pool Table","filepath":"./images/portfolio/pa/Isometric/ISO-PT.png","ymd_date":"20130701","dmy_date":"01/07/2013","description":"Isometric pool table","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"66","name":"Turtle","filepath":"./images/portfolio/pa/Isometric/ISO-Turt.png","ymd_date":"20150727","dmy_date":"27/07/2015","description":"Isometric turtle","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"true","other":"false"}},
+	
+	{"key":"67","name":"Vulture","filepath":"./images/portfolio/pa/Isometric/ISO-Vulture.png","ymd_date":"20160615","dmy_date":"15/06/2016","description":"Isometric vulture","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"68","name":"'Spacehopper' Arena 1","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL1.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"69","name":"'Spacehopper' Arena 2","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL2.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"70","name":"'Spacehopper' Arena 3","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL3.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"71","name":"'Spacehopper' Arena 4","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL4.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"72","name":"'Spacehopper' Arena 5","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL5.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"73","name":"'Spacehopper' Arena 6","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL6.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"74","name":"'Spacehopper' Arena 7","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL7.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"75","name":"'Spacehopper' Arena 8","filepath":"./images/portfolio/pa/Isometric/ISO-LEVEL8.png","ymd_date":"20120602","dmy_date":"02/06/2012","description":"'Spacehopper' game arena","completed":"true","visible":"true","Categories":{"isometric":"true","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"76","name":"Acorn","filepath":"./images/portfolio/pa/Misc/Misc-Acorn.png","ymd_date":"20150718","dmy_date":"18/07/2015","description":"Acorn","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"77","name":"AK-47","filepath":"./images/portfolio/pa/Misc/Misc-AK47.gif","ymd_date":"20150424","dmy_date":"24/04/2015","description":"AK-47","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"78","name":"'Bluedot'","filepath":"./images/portfolio/pa/Misc/Misc-BlueDot.gif","ymd_date":"20120420","dmy_date":"20/04/2012","description":"Isometric floating blue dot","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"79","name":"Champagne","filepath":"./images/portfolio/pa/Misc/Misc-Champagne.png","ymd_date":"20141116","dmy_date":"16/11/2014","description":"Champagne","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"80","name":"Small Characters","filepath":"./images/portfolio/pa/Misc/Misc-Characters.gif","ymd_date":"20140121","dmy_date":"21/02/2014","description":"Random assorted characters","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"81","name":"Assorted Weapons (1)","filepath":"./images/portfolio/pa/Misc/Misc-Guns1.png","ymd_date":"20160730","dmy_date":"30/07/2016","description":"Assorted weapons (1)","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"82","name":"Assorted Weapons (2)","filepath":"./images/portfolio/pa/Misc/Misc-Guns2.png","ymd_date":"20161202","dmy_date":"02/12/2016","description":"Assorted weapons (2)","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"83","name":"Assorted Weapons (3)","filepath":"./images/portfolio/pa/Misc/Misc-Guns3.png","ymd_date":"20171008","dmy_date":"08/10/2017","description":"Assorted weapons (3)","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"84","name":"Assorted Weapons Old","filepath":"./images/portfolio/pa/Misc/Misc-GunsOld.gif","ymd_date":"20120422","dmy_date":"22/04/2012","description":"Assorted weapons old","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"85","name":"M16","filepath":"./images/portfolio/pa/Misc/Misc-M16.gif","ymd_date":"20101025","dmy_date":"25/10/2010","description":"M16","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"86","name":"Medals","filepath":"./images/portfolio/pa/Misc/Misc-Medals.png","ymd_date":"20160622","dmy_date":"22/06/2016","description":"Medals","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"87","name":"Project Buddies","filepath":"./images/portfolio/pa/Misc/Misc-ProjectBuddies.png","ymd_date":"1991231","dmy_date":"unknown","description":"Project buddies","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"88","name":"PSVR","filepath":"./images/portfolio/pa/Misc/Misc-PSVR.png","ymd_date":"20171227","dmy_date":"27/12/2017","description":"PSVR","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"89","name":"Revolver Animation","filepath":"./images/portfolio/pa/Misc/Misc-Revolver.gif","ymd_date":"20151107","dmy_date":"07/11/2015","description":"Revolver shooting and reloading animation","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"91","name":"Ship","filepath":"./images/portfolio/pa/Misc/Misc-Ship.png","ymd_date":"20171217","dmy_date":"17/12/2017","description":"Ship","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"92","name":"Village Scene","filepath":"./images/portfolio/pa/Misc/Misc-Village.png","ymd_date":"20121207","dmy_date":"07/12/2012","description":"Village scene at night","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}},
+	
+	{"key":"93","name":"Woman","filepath":"./images/portfolio/pa/Misc/Misc-Woman.png","ymd_date":"20171119","dmy_date":"19/11/2017","description":"Woman","completed":"true","visible":"true","Categories":{"isometric":"false","fanart":"false","animal":"false","other":"false"}}
+	]
+}

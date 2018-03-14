@@ -1,0 +1,137 @@
+$button-init-colour: #33333d
+$button-hover-colour: #404051
+$button-text-colour: #ffffff
+$table-border-color: #000000
+$content-width: 75vw
+$pa-header-height: 40px
+
+body
+	background-color: #8A8A8A
+	font-family: verdana
+	width: 0
+		
+.fadein
+	opacity: 1
+	transition: opacity 2s
+	transition-delay: 0s
+
+.fadeout
+	opacity: 0
+	transition: opacity 1s
+	transition-delay: 0s	
+	
+.menu-option
+	border-right: 1px solid black
+	color: $button-text-colour
+	letter-spacing: 8px
+	line-height: 25vh
+	text-align: center
+	width: 100vw
+	
+.pa-col-description
+	color: $button-text-colour
+	display: table-cell
+	vertical-align: middle
+	width: 50%
+	
+.pa-col-image
+	display: inline-block
+	max-height: 300px
+	overflow: hidden
+	width: 100%
+	
+.pa-display-img
+	max-width: 100%
+	padding: 4px
+	float: right
+	
+.pa-header
+	background-color: red
+	border-bottom: 1px solid black
+	height: $pa-header-height
+	position: fixed
+	top: 0
+	width: 100%
+	
+.pa-page-numbers
+	display: inline
+	margin: 0px 5px 0px 5px
+	
+.pa-page-options
+	line-height: $pa-header-height
+	
+.pa-page-selected
+	font-weight: 700
+	
+.pa-row
+	border-left: 1px solid $table-border-color
+	border-right: 1px solid $table-border-color
+	display: table
+	width: 100%
+	
+.pa-row:first-child
+	border-top: 1px solid $table-border-color
+
+.pa-row:last-child
+	border-bottom: 1px solid $table-border-color
+	
+.pa-row:nth-child(even)
+	background-color: $button-hover-colour
+	
+.pa-row:nth-child(odd)
+	background-color: $button-init-colour
+	
+.pa-table-container
+	margin: 15px 15px 15px 15px	
+	padding-top: $pa-header-height
+	
+#content-container
+	height: 100vh
+	left: 25vw
+	overflow-y: scroll
+	position: absolute
+	top: 0
+	width: $content-width
+	z-index: -1
+	
+#main-menu-container
+	width: 25vw
+	
+#menu-option-1
+	//background: url(../images/test/kefla1.png) no-repeat
+	background-position: 90% 10%	
+	background-color: $button-init-colour
+		
+#menu-option-2
+	//background: url(../images/test/kefla1.png) no-repeat
+	background-position: 10% 10%	
+	background-color: $button-init-colour
+		
+#menu-option-3
+	background-color: $button-init-colour
+		
+#menu-option-4
+	background-color: $button-init-colour
+	
+#menu-option-1.menu-opened
+	transition: width 2s
+	transition-delay: 0s
+	width: 100%
+	
+#menu-option-2.menu-opened
+	transition: width 2s
+	transition-delay: 0.25s
+	width: 100%
+	
+#menu-option-3.menu-opened
+	transition: width 2s
+	transition-delay: 0.5s
+	width: 100%
+	
+#menu-option-4.menu-opened
+	transition: width 2s
+	transition-delay: 0.75s
+	width: 100%	
+
+#menu-option-1:hover, #menu-option-2:hover, #menu-option-3:hover, #menu-option-4:hover
+	background-color: $button-hover-colour

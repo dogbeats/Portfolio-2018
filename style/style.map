@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../style-sass/style.css",
+	"sources": [
+		"../style-sass/style.sass"
+	],
+	"sourcesContent": [
+		"body {\n\tbackground-color: red; }\n"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACJ,gBAAgB,EAAE,GAAI;CAAG",
+	"names": []
+}
