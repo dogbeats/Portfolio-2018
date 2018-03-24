@@ -1,6 +1,6 @@
 /* line 8, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 body {
-  background-color: #8A8A8A;
+  background-color: #b8dcfe;
   font-family: verdana;
   width: 0;
 }
@@ -134,51 +134,51 @@ body {
   background-color: #33333d;
 }
 
-/* line 105, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 104, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-2 {
   background-position: 10% 10%;
   background-color: #33333d;
 }
 
-/* line 110, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 108, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-3 {
   background-color: #33333d;
 }
 
-/* line 113, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 111, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-4 {
   background-color: #33333d;
 }
 
-/* line 116, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 114, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-1.menu-opened {
   transition: width 2s;
   transition-delay: 0s;
   width: 100%;
 }
 
-/* line 121, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 119, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-2.menu-opened {
   transition: width 2s;
   transition-delay: 0.25s;
   width: 100%;
 }
 
-/* line 126, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 124, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-3.menu-opened {
   transition: width 2s;
   transition-delay: 0.5s;
   width: 100%;
 }
 
-/* line 131, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 129, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-4.menu-opened {
   transition: width 2s;
   transition-delay: 0.75s;
   width: 100%;
 }
 
-/* line 136, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 134, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-1:hover, #menu-option-2:hover, #menu-option-3:hover, #menu-option-4:hover {
   background-color: #404051;
 }

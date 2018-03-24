@@ -102,42 +102,42 @@ class PA extends Component {
 	
 	return (
 		<div>
-		<div className="pa-header">
-			<div className="pa-page-options">
-			{number_of_pages.map(nop=>
-				
-				nop == this.state.page ? 
-				(<div className="pa-page-numbers pa-page-selected" onClick={this.changePage.bind(this, nop)} key={nop}>
-					{nop+1}
-				</div>) : 
-				(<div className="pa-page-numbers" onClick={this.changePage.bind(this, nop)} key={nop}>
-					{nop+1}
-				</div>)
-				
+			<div className="pa-header">
+				<div className="pa-page-options">
+				{number_of_pages.map(nop=>
+					
+					nop == this.state.page ? 
+					(<div className="pa-page-numbers pa-page-selected" onClick={this.changePage.bind(this, nop)} key={nop}>
+						{nop+1}
+					</div>) : 
+					(<div className="pa-page-numbers" onClick={this.changePage.bind(this, nop)} key={nop}>
+						{nop+1}
+					</div>)
+					
+				)}
+				</div>
+				<div className="pa-sort-options"></div>
+			</div>
+			<div className="pa-table-container">
+			{this.state.visible_pa.map(pa=>
+				<div className="pa-row" key={pa.key}>
+					<div className="pa-col-image">
+						<Img src={require(`${pa.filepath}`)} className='pa-display-img'/>
+					</div>
+					<div className="pa-col-description">
+						<div className="pa-col-description-name">
+							{pa.name}
+						</div>
+						<div className="pa-col-description-date">
+							{pa.dmy_date}
+						</div>
+						<div className="pa-col-description-desc">
+							{pa.description}
+						</div>
+					</div>
+				</div>
 			)}
 			</div>
-			<div className="pa-sort-options"></div>
-		</div>
-		<div className="pa-table-container">
-		{this.state.visible_pa.map(pa=>
-			<div className="pa-row" key={pa.key}>
-				<div className="pa-col-image">
-					<Img src={require(`${pa.filepath}`)} className='pa-display-img'/>
-				</div>
-				<div className="pa-col-description">
-					<div className="pa-col-description-name">
-						{pa.name}
-					</div>
-					<div className="pa-col-description-date">
-						{pa.dmy_date}
-					</div>
-					<div className="pa-col-description-desc">
-						{pa.description}
-					</div>
-				</div>
-			</div>
-		)}
-		</div>
 		</div>
     );
   }
