@@ -21,7 +21,11 @@ class Contact extends Component {
 	//document.getElementById('menu-option-1').addEventListener('click',function(){ModifyOutput('menu-option-1');});
 	
 	return (
-      testoutput
+		<div id="contact-container">
+			<div id="contact-box">
+				This is where the c ontat details will go email phone etc.
+			</div>
+		</div>
     );
   }
 }

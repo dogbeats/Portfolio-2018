@@ -9,14 +9,23 @@ var init_loaded = false;
 
 class PA extends Component {
 	constructor(props) {
-	super(props);
-	this.state = {page:0,per_page:10,visible_pa:[]};
-	
-	// This binding is necessary to make `this` work in the callback
-	this.handleClick = this.handleClick.bind(this);
-	this.changePage = this.changePage.bind(this);
-	this.heapSwap = this.heapSwap.bind(this);
-	this.heapMaxHeapify = this.heapMaxHeapify.bind(this);
+		super(props);
+		this.state = {
+			page:0,
+			per_page:10,
+			visible_pa:[],
+			sort_option:'',
+			sort_display:'none'
+		
+		};
+		
+		// This binding is necessary to make `this` work in the callback
+		this.handleClick = this.handleClick.bind(this);
+		this.changePage = this.changePage.bind(this);
+		this.heapSwap = this.heapSwap.bind(this);
+		this.heapMaxHeapify = this.heapMaxHeapify.bind(this);
+		this.changeSortOptionField = this.changeSortOptionField.bind(this);
+		this.toggleHiddenField = this.toggleHiddenField.bind(this);
 	}
 	//document.getElementById('menu-option-1').addEventListener('click',function(){ModifyOutput('menu-option-1');});
 
@@ -69,6 +78,20 @@ class PA extends Component {
 		}
 	}
 	
+	changeSortOptionField(value) {
+		switch(value)
+		{
+			case '1':
+				this.setState({sort_option:'most recent first'});
+			break;
+			case '2':
+				this.setState({sort_option:'most recent last'});
+			break;
+			default:
+				this.setState({sort_option:'error processing sort'});
+		}
+	}
+	
 	changePage(num)	{
 		var number = num;
 		console.log('called');
@@ -85,10 +108,22 @@ class PA extends Component {
 		this.setState({page:number});
 	}
 	
+	toggleHiddenField(id) {
+		switch(id)
+		{
+			default:
+				if(this.state.sort_display=='none')
+					this.setState({sort_display:'inline-block'})
+				else
+					this.setState({sort_display:'none'})
+		}
+	}
+	
 	render() {
 	var page = this.state.page;
 	var per_page = this.state.per_page;
 	var number_of_pages = [];
+	
 	for(var i = 0;i < all_pa.length/10; i++)
 	{
 		number_of_pages.push(i);
@@ -99,6 +134,11 @@ class PA extends Component {
 		this.changePage(0);
 		init_loaded=true;
 	}
+	
+	var sort_style = {
+		display: this.state.sort_display,
+		position: 'absolute'
+	};
 	
 	return (
 		<div>
@@ -116,7 +156,32 @@ class PA extends Component {
 					
 				)}
 				</div>
-				<div className="pa-sort-options"></div>
+				<div className="pa-sort-options">
+					<div className="pa-sort">
+						<div className="pa-sort-header" onClick={this.toggleHiddenField.bind(this,0)}>
+							Sort By: <span className="pa-sort-chosen">{this.state.sort_option}</span>
+						</div>
+						<ul className="pa-sort-contents" style={sort_style} onClick={this.toggleHiddenField.bind(this,0)}>
+							<li onClick={this.changeSortOptionField.bind(this,'1')}>most recent first</li>
+							<li onClick={this.changeSortOptionField.bind(this,'2')}>most recent last</li>
+						</ul>
+					</div>
+					<div className="pa-filter">
+					</div>
+				</div>
+				<div className="pa-sort-options">
+					<div className="pa-sort">
+						<div className="pa-sort-header" onClick={this.toggleHiddenField.bind(this,0)}>
+							Sort By: <span className="pa-sort-chosen">{this.state.sort_option}</span>
+						</div>
+						<ul className="pa-sort-contents" style={sort_style} onClick={this.toggleHiddenField.bind(this,0)}>
+							<li onClick={this.changeSortOptionField.bind(this,'1')}>most recent first</li>
+							<li onClick={this.changeSortOptionField.bind(this,'2')}>most recent last</li>
+						</ul>
+					</div>
+					<div className="pa-filter">
+					</div>
+				</div>
 			</div>
 			<div className="pa-table-container">
 			{this.state.visible_pa.map(pa=>

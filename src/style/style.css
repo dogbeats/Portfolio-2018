@@ -70,8 +70,16 @@ body {
 
 /* line 60, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-page-options {
+	width: 25%;
   line-height: 40px;
-}
+	display:inline-block
+  }
+/* line 60, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+.pa-sort-options {
+	width: 25%;
+  line-height: 40px;
+	display:inline-block
+  }
 
 /* line 63, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-page-selected {
@@ -121,6 +129,14 @@ body {
   top: 0;
   width: 75vw;
   z-index: -1;
+}
+
+#contact-box {
+	background-color: #33333d;
+	border: 1px solid black;
+	color: #fff;
+	margin: 10px;
+	padding: 20px;
 }
 
 /* line 97, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
