@@ -54,9 +54,9 @@ body {
 
 /* line 48, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-header {
-  background-color: red;
+  background-color: #33333d;
   border-bottom: 1px solid black;
-  height: 40px;
+  color: #ffffff;
   position: fixed;
   top: 0;
   width: 100%;
@@ -70,23 +70,17 @@ body {
 
 /* line 60, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-page-options {
-	width: 25%;
+  display: inline-block;
   line-height: 40px;
-	display:inline-block
-  }
-/* line 60, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
-.pa-sort-options {
-	width: 25%;
-  line-height: 40px;
-	display:inline-block
-  }
+  width: 25%;
+}
 
-/* line 63, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 65, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-page-selected {
   font-weight: 700;
 }
 
-/* line 66, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 68, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-row {
   border-left: 1px solid #000000;
   border-right: 1px solid #000000;
@@ -94,33 +88,51 @@ body {
   width: 100%;
 }
 
-/* line 72, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 74, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-row:first-child {
   border-top: 1px solid #000000;
 }
 
-/* line 75, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 77, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-row:last-child {
   border-bottom: 1px solid #000000;
 }
 
-/* line 78, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 80, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-row:nth-child(even) {
   background-color: #404051;
 }
 
-/* line 81, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 83, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-row:nth-child(odd) {
   background-color: #33333d;
 }
 
-/* line 84, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 86, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+.pa-sort-contents, .pa-filter-contents {
+  background-color: #33333d;
+  border: 1px solid black;
+  border-top: 0;
+  color: #ffffff;
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+
+/* line 95, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+.pa-sort-options, .pa-filter-options {
+  display: inline-block;
+  line-height: 40px;
+  width: 25%;
+}
+
+/* line 100, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 .pa-table-container {
   margin: 15px 15px 15px 15px;
   padding-top: 40px;
 }
 
-/* line 88, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 104, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #content-container {
   height: 100vh;
   left: 25vw;
@@ -131,72 +143,93 @@ body {
   z-index: -1;
 }
 
+/* line 113, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #contact-box {
-	background-color: #33333d;
-	border: 1px solid black;
-	color: #fff;
-	margin: 10px;
-	padding: 20px;
+  background-color: #33333d;
+  border: 1px solid  #000;
+  color: #fff;
+  margin: 10px;
+  padding: 20px;
 }
 
-/* line 97, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 120, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+#footer-container {
+  bottom: 0;
+  position: fixed;
+  right: 0;
+}
+
+/* line 125, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #main-menu-container {
   width: 25vw;
 }
 
-/* line 100, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 128, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-1 {
   background-position: 90% 10%;
   background-color: #33333d;
 }
 
-/* line 104, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 132, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-2 {
   background-position: 10% 10%;
   background-color: #33333d;
 }
 
-/* line 108, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 136, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-3 {
   background-color: #33333d;
 }
 
-/* line 111, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 139, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-4 {
   background-color: #33333d;
 }
 
-/* line 114, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 142, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-1.menu-opened {
   transition: width 2s;
   transition-delay: 0s;
   width: 100%;
 }
 
-/* line 119, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 147, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-2.menu-opened {
   transition: width 2s;
   transition-delay: 0.25s;
   width: 100%;
 }
 
-/* line 124, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 152, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-3.menu-opened {
   transition: width 2s;
   transition-delay: 0.5s;
   width: 100%;
 }
 
-/* line 129, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 157, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-4.menu-opened {
   transition: width 2s;
   transition-delay: 0.75s;
   width: 100%;
 }
 
-/* line 134, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+/* line 162, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
 #menu-option-1:hover, #menu-option-2:hover, #menu-option-3:hover, #menu-option-4:hover {
   background-color: #404051;
+}
+
+@media screen and (max-width: 990px) {
+  /* line 166, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+  .pa-sort-options {
+    display: block;
+    width: 100%;
+  }
+  /* line 170, C:/Users/Tom/Documents/Portfolio-2018/portfolio2018/style-sass/style.sass */
+  .pa-filter-options {
+    display: block;
+    width: 100%;
+  }
 }
 
 /*# sourceMappingURL=../src/style/style.map */

@@ -46,9 +46,9 @@ body
 	float: right
 	
 .pa-header
-	background-color: red
+	background-color: $button-init-colour
 	border-bottom: 1px solid black
-	height: $pa-header-height
+	color: $button-text-colour
 	position: fixed
 	top: 0
 	width: 100%
@@ -83,7 +83,16 @@ body
 .pa-row:nth-child(odd)
 	background-color: $button-init-colour
 
-.pa-sort-options
+.pa-sort-contents, .pa-filter-contents
+	background-color: $button-init-colour
+	border: 1px solid black
+	border-top: 0
+	color: $button-text-colour
+	list-style-type: none
+	margin: 0
+	padding: 5px
+	
+.pa-sort-options, .pa-filter-options
 	display: inline-block
 	line-height: $pa-header-height
 	width: 25%	
@@ -107,6 +116,11 @@ body
 	color: #fff
 	margin: 10px
 	padding: 20px
+	
+#footer-container
+	bottom: 0
+	position: fixed
+	right: 0
 	
 #main-menu-container
 	width: 25vw
@@ -147,3 +161,12 @@ body
 
 #menu-option-1:hover, #menu-option-2:hover, #menu-option-3:hover, #menu-option-4:hover
 	background-color: $button-hover-colour
+
+@media screen and (max-width:990px)
+	.pa-sort-options
+		display: block
+		width: 100%
+
+	.pa-filter-options
+		display: block
+		width: 100%

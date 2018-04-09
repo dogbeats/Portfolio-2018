@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import './style/style.css';
+//import './style/style.css';
+//import './style/style-light.css';
 
 class Contact extends Component {
 	render() {
